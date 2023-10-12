@@ -16,7 +16,6 @@ O Projeto Desafio JS 02 é uma aplicação simples em JavaScript que calcula a m
  ## 🛠️ Este projeto faz uso das seguintes tecnologias:
 
 - HTML: A linguagem de marcação usada para estruturar a página da web.
-- CSS: Utilizado para a estilização e aparência da aplicação.
 - JavaScript: A linguagem de programação que fornece funcionalidades interativas.
 
 ---
